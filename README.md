@@ -11,7 +11,7 @@ Hi there! I'm Sinjini Sarkar, a web-developer from Assam. <br>I'm currently in m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinjini05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinjini05&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
