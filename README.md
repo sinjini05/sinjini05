@@ -1,7 +1,7 @@
- Hi there 👋
+ Hi there 👋 Sinjini here.
 
  # 💫 About Me:
-Hi there! I'm Sinjini Sarkar, a web-developer from Assam. <br>I'm currently in my final year of college pursuing BTech from SRMIST-KTR.<br><br>
+A passionate web-developer based out of Assam. <br>I'm currently in my final year of college pursuing BTech-CSE from SRMIST-KTR.<br> Excited to learn new things everyday!<br>
 
 
 # 💻 Tech Stack:
